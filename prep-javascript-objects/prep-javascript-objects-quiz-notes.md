@@ -5,9 +5,9 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What data types can object properties hold?
-
+strings, numbers, booleans
 - Describe the syntax (structure) of object-literals in JavaScript.
-
+collection of {name:value} pairs. Association between name(or key) and a value
 ## Notes
 
 All student notes should be written here.
