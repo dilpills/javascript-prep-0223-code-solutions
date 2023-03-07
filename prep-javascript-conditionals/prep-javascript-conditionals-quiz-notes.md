@@ -6,10 +6,13 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What does `strictly equal` mean?
-
+same value and type of variable(string/number/boolean)
 - What is the logical **and** operator?
-
+two statments true before moving onto next
 - Can you name some comparison operators?
+=
+<
+>
 
 ## Notes
 
