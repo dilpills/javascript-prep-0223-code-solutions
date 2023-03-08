@@ -2,7 +2,7 @@
 function compact(array) {
   const newArr = [];
   for (let i = 0; i < array.length; i++) {
-    if (array[i] !== false) {
+    if (Boolean(array[i]) !== false) {
       newArr.push(array[i]);
     }
   }
